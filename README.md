@@ -1,5 +1,5 @@
  <h>Trading Bot </h>
- – Stock Price Alerts & Monitoring
+ Stock Price Alerts & Monitoring
 This is an automated trading bot that tracks major stock tickers (TSLA, AAPL, MSFT, GOOGL), fetches their real-time prices, and sends email alerts based on trading logic. It's designed to help monitor stock price movements and notify users when key conditions are met.
 
  <h>Features</h>
